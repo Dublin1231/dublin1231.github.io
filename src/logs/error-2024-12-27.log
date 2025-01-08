@@ -1,0 +1,955 @@
+2024-12-27 16:41:25:4125 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:41:25:4125 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:30:4130 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:41:30:4130 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:30:4130 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:35:4135 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:41:40:4140 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:43:32:4332 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:43:32:4332 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:37:4337 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:43:37:4337 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:37:4337 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:42:4342 [31merror[39m: [31m错误: 端口 3001 已被占用[39m
+2024-12-27 16:43:47:4347 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3001[39m
+2024-12-27 16:52:19:5219 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3002[39m
+2024-12-27 16:52:19:5219 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:24:5224 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3002[39m
+2024-12-27 16:52:24:5224 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:24:5224 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3002[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3002[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:29:5229 [31merror[39m: [31m错误: 端口 3002 已被占用[39m
+2024-12-27 16:52:34:5234 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3002[39m
+2024-12-27 16:56:15:5615 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:56:15:5615 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:20:5620 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:56:20:5620 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:20:5620 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:25:5625 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:56:30:5630 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:13:5913 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:59:13:5913 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:18:5918 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:59:18:5918 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:18:5918 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:23:5923 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:28:5928 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 16:59:48:5948 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 16:59:48:5948 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 17:00:03:03 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 17:00:03:03 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 17:01:22:122 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 17:01:22:122 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 17:01:42:142 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 17:01:42:142 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 17:03:34:334 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 17:03:34:334 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:27:23:2723 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:27:23:2723 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:27:53:2753 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:27:53:2753 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:28:17:2817 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:28:17:2817 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:28:22:2822 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:28:22:2822 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:28:23:2823 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:28:23:2823 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:28:49:2849 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:28:49:2849 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:29:20:2920 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:29:20:2920 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:29:30:2930 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:29:30:2930 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:30:01:301 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:30:01:301 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:30:03:303 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:30:03:303 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:30:09:309 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:30:09:309 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:30:24:3024 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:30:24:3024 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:30:31:3031 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:30:31:3031 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:30:39:3039 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:30:39:3039 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:31:01:311 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:31:01:311 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:31:09:319 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:31:09:319 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:31:29:3129 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:31:29:3129 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:31:57:3157 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:31:57:3157 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:33:48:3348 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:33:48:3348 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:35:57:3557 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:35:57:3557 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:35:59:3559 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:8:12)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: POST[39m
+[31m    URL: /api/cache/clear[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:35:59:3559 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:36:00:360 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:8:12)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: POST[39m
+[31m    URL: /api/cache/clear[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:36:00:360 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:36:00:360 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:8:12)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: POST[39m
+[31m    URL: /api/cache/clear[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:36:00:360 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:36:00:360 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:8:12)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: POST[39m
+[31m    URL: /api/cache/clear[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:36:00:360 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:36:01:361 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:36:01:361 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:36:02:362 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:36:02:362 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:50:44:5044 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:50:44:5044 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 18:51:14:5114 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 18:51:14:5114 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:10:41:1041 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:10:41:1041 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:11:11:1111 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:11:11:1111 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:11:35:1135 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:11:35:1135 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:12:05:125 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:12:05:125 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:12:35:1235 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:12:35:1235 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:13:05:135 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:13:05:135 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:13:29:1329 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:13:29:1329 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 19:13:51:1351 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at cacheMiddleware (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/cacheMiddleware.js:41:5)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/cache/stats[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-27 19:13:51:1351 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-27 20:28:48:2848 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 20:28:48:2848 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:28:53:2853 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 20:28:53:2853 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:28:53:2853 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:28:58:2858 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 20:28:58:2858 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 20:28:58:2858 [31merror[39m: [31m未捕获的异常: Listen method has been called more than once without closing.[39m
+2024-12-27 20:29:32:2932 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 20:29:32:2932 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:37:2937 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 20:29:37:2937 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:37:2937 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:42:2942 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 20:29:47:2947 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 21:48:03:483 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 21:48:03:483 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:08:488 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 21:48:08:488 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:08:488 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:48:13:4813 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:58:52:5852 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 21:58:52:5852 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:58:57:5857 [31merror[39m: [31mWebSocket服务器错误: listen EADDRINUSE: address already in use 0.0.0.0:3456[39m
+2024-12-27 21:58:57:5857 [31merror[39m: [31m错误: 端口 3456 已被占用[39m
+2024-12-27 21:58:57:5857 [31merror[39m: [31m错误: 端口 3456 已被占用[39m

@@ -1,0 +1,718 @@
+2024-12-29 20:38:35:3835 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 20:38:35:3835 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 20:38:35:3835 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 20:38:35:3835 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 20:38:35:3835 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 20:38:35:3835 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 20:38:35:3835 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 20:38:35:3835 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 20:38:39:3839 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-max","timestamp":"2024-12-29T12:38:39.957Z"} - IP: 127.0.0.1[39m
+2024-12-29 20:38:39:3839 [33mwarn[39m: [33mGET /api/messages/qwen-max 401 2.6223ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 20:38:39:3839 [32minfo[39m: [32m性能指标已更新 - 响应时间: 2.6223ms, 状态码: 401[39m
+2024-12-29 20:38:39:3839 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-plus","timestamp":"2024-12-29T12:38:39.962Z"} - IP: 127.0.0.1[39m
+2024-12-29 20:38:39:3839 [33mwarn[39m: [33mGET /api/messages/qwen-plus 401 0.6433ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 20:38:39:3839 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6433ms, 状态码: 401[39m
+2024-12-29 20:38:39:3839 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-72b","timestamp":"2024-12-29T12:38:39.964Z"} - IP: 127.0.0.1[39m
+2024-12-29 20:38:39:3839 [33mwarn[39m: [33mGET /api/messages/qwen-72b 401 0.4135ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 20:38:39:3839 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4135ms, 状态码: 401[39m
+2024-12-29 20:38:40:3840 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-max","timestamp":"2024-12-29T12:38:40.640Z"} - IP: 127.0.0.1[39m
+2024-12-29 20:38:40:3840 [33mwarn[39m: [33mGET /api/messages/qwen-max 401 0.45439999999999997ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 20:38:40:3840 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.45439999999999997ms, 状态码: 401[39m
+2024-12-29 20:40:22:4022 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages","timestamp":"2024-12-29T12:40:22.556Z"} - IP: 127.0.0.1[39m
+2024-12-29 20:40:22:4022 [33mwarn[39m: [33mPOST /api/messages 401 0.7595ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 20:40:22:4022 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7595ms, 状态码: 401[39m
+2024-12-29 20:49:53:4953 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 20:49:57:4957 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 20:53:54:5354 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 20:53:58:5358 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 20:55:48:5548 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 20:55:52:5552 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 20:56:19:5619 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 20:56:23:5623 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:10:15:1015 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:10:19:1019 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:12:51:1251 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:12:56:1256 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:14:15:1415 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:14:19:1419 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:20:40:2040 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:21:32:2132 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:24:15:2415 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:24:19:2419 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:24:42:2442 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:24:46:2446 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:27:23:2723 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:27:27:2727 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:28:06:286 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:28:10:2810 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:55:42:5542 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-max","timestamp":"2024-12-29T13:55:42.890Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:55:42:5542 [33mwarn[39m: [33mGET /api/messages/qwen-max 401 2.6759ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m性能指标已更新 - 响应时间: 2.6759ms, 状态码: 401[39m
+2024-12-29 21:55:42:5542 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-plus","timestamp":"2024-12-29T13:55:42.895Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:55:42:5542 [33mwarn[39m: [33mGET /api/messages/qwen-plus 401 0.6979ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6979ms, 状态码: 401[39m
+2024-12-29 21:55:42:5542 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-72b","timestamp":"2024-12-29T13:55:42.897Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:55:42:5542 [33mwarn[39m: [33mGET /api/messages/qwen-72b 401 0.4034ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:55:42:5542 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4034ms, 状态码: 401[39m
+2024-12-29 21:56:22:5622 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-max","timestamp":"2024-12-29T13:56:22.096Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:22:5622 [33mwarn[39m: [33mGET /api/messages/qwen-max 401 0.7887ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:22:5622 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7887ms, 状态码: 401[39m
+2024-12-29 21:56:22:5622 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-plus","timestamp":"2024-12-29T13:56:22.099Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:22:5622 [33mwarn[39m: [33mGET /api/messages/qwen-plus 401 0.6857ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:22:5622 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6857ms, 状态码: 401[39m
+2024-12-29 21:56:22:5622 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-72b","timestamp":"2024-12-29T13:56:22.105Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:22:5622 [33mwarn[39m: [33mGET /api/messages/qwen-72b 401 0.5288999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:22:5622 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5288999999999999ms, 状态码: 401[39m
+2024-12-29 21:56:35:5635 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-max","timestamp":"2024-12-29T13:56:35.953Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:35:5635 [33mwarn[39m: [33mGET /api/messages/qwen-max 401 0.7809999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:35:5635 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7809999999999999ms, 状态码: 401[39m
+2024-12-29 21:56:35:5635 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-plus","timestamp":"2024-12-29T13:56:35.955Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:35:5635 [33mwarn[39m: [33mGET /api/messages/qwen-plus 401 0.5365ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:35:5635 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5365ms, 状态码: 401[39m
+2024-12-29 21:56:35:5635 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-72b","timestamp":"2024-12-29T13:56:35.957Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:35:5635 [33mwarn[39m: [33mGET /api/messages/qwen-72b 401 0.573ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:35:5635 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.573ms, 状态码: 401[39m
+2024-12-29 21:56:41:5641 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:56:45:5645 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-max","timestamp":"2024-12-29T13:56:45.316Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:45:5645 [33mwarn[39m: [33mGET /api/messages/qwen-max 401 0.6442ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6442ms, 状态码: 401[39m
+2024-12-29 21:56:45:5645 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-plus","timestamp":"2024-12-29T13:56:45.318Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:45:5645 [33mwarn[39m: [33mGET /api/messages/qwen-plus 401 0.3211ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3211ms, 状态码: 401[39m
+2024-12-29 21:56:45:5645 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-72b","timestamp":"2024-12-29T13:56:45.319Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:56:45:5645 [33mwarn[39m: [33mGET /api/messages/qwen-72b 401 0.3772ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:56:45:5645 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3772ms, 状态码: 401[39m
+2024-12-29 21:56:51:5651 [32minfo[39m: [32m服务器已关闭[39m
+2024-12-29 21:57:05:575 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 21:57:08:578 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-max","timestamp":"2024-12-29T13:57:08.963Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:57:08:578 [33mwarn[39m: [33mGET /api/messages/qwen-max 401 2.6174999999999997ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m性能指标已更新 - 响应时间: 2.6174999999999997ms, 状态码: 401[39m
+2024-12-29 21:57:08:578 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-plus","timestamp":"2024-12-29T13:57:08.968Z"} - IP: 127.0.0.1[39m
+2024-12-29 21:57:08:578 [33mwarn[39m: [33mGET /api/messages/qwen-plus 401 0.871ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 21:57:08:578 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.871ms, 状态码: 401[39m
+2024-12-29 21:57:14:5714 [32minfo[39m: [32m服务器已关闭[39m
+2024-12-29 21:58:10:5810 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 21:58:14:5814 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:02:57:257 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-72b","timestamp":"2024-12-29T14:02:57.622Z"} - IP: 127.0.0.1[39m
+2024-12-29 22:02:57:257 [33mwarn[39m: [33mGET /api/messages/qwen-72b 401 2.7396ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:02:57:257 [32minfo[39m: [32m性能指标已更新 - 响应时间: 2.7396ms, 状态码: 401[39m
+2024-12-29 22:02:57:257 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-long","timestamp":"2024-12-29T14:02:57.628Z"} - IP: 127.0.0.1[39m
+2024-12-29 22:02:57:257 [33mwarn[39m: [33mGET /api/messages/qwen-long 401 0.6688ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:02:57:257 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6688ms, 状态码: 401[39m
+2024-12-29 22:02:57:257 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-plus","timestamp":"2024-12-29T14:02:57.629Z"} - IP: 127.0.0.1[39m
+2024-12-29 22:02:57:257 [33mwarn[39m: [33mGET /api/messages/qwen-plus 401 0.39039999999999997ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:02:57:257 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.39039999999999997ms, 状态码: 401[39m
+2024-12-29 22:03:42:342 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-long","timestamp":"2024-12-29T14:03:42.563Z"} - IP: 127.0.0.1[39m
+2024-12-29 22:03:42:342 [33mwarn[39m: [33mGET /api/messages/qwen-long 401 0.8636999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:03:42:342 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.8636999999999999ms, 状态码: 401[39m
+2024-12-29 22:03:42:342 [33mwarn[39m: [33mSecurity: UNAUTHORIZED - {"error":"缺少API密钥","details":"请在请求头中提供API密钥","path":"/api/messages/qwen-72b","timestamp":"2024-12-29T14:03:42.649Z"} - IP: 127.0.0.1[39m
+2024-12-29 22:03:42:342 [33mwarn[39m: [33mGET /api/messages/qwen-72b 401 1.0539ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:03:42:342 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.0539ms, 状态码: 401[39m
+2024-12-29 22:04:35:435 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:04:39:439 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:09:49:949 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:10:05:105 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-long[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31mGET /api/messages/qwen-long 500 4.8979ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:10:54:1054 [32minfo[39m: [32m性能指标已更新 - 响应时间: 4.8979ms, 状态码: 500[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-plus[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31mGET /api/messages/qwen-plus 500 1.8679ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:10:54:1054 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.8679ms, 状态码: 500[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-72b[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31mGET /api/messages/qwen-72b 500 0.9914999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:10:54:1054 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.9914999999999999ms, 状态码: 500[39m
+2024-12-29 22:11:09:119 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:11:13:1113 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-long[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31mGET /api/messages/qwen-long 500 4.8294999999999995ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:11:14:1114 [32minfo[39m: [32m性能指标已更新 - 响应时间: 4.8294999999999995ms, 状态码: 500[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-plus[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31mGET /api/messages/qwen-plus 500 1.3155ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:11:14:1114 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.3155ms, 状态码: 500[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-72b[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31mGET /api/messages/qwen-72b 500 1.0052999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:11:14:1114 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.0052999999999999ms, 状态码: 500[39m
+2024-12-29 22:12:39:1239 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 0[39m
+2024-12-29 22:12:43:1243 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 3.5532ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m性能指标已更新 - 响应时间: 3.5532ms, 状态码: 200[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:12:43:1243 [35mhttp[39m: [35mGET /api/messages/qwen-plus 200 0.7198ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7198ms, 状态码: 200[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:12:43:1243 [35mhttp[39m: [35mGET /api/messages/qwen-72b 200 0.3918ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:12:43:1243 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3918ms, 状态码: 200[39m
+2024-12-29 22:13:18:1318 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.7188ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:18:1318 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7188ms, 状态码: 304[39m
+2024-12-29 22:13:18:1318 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.2878ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:18:1318 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.2878ms, 状态码: 304[39m
+2024-12-29 22:13:18:1318 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.21489999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:18:1318 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.21489999999999998ms, 状态码: 304[39m
+2024-12-29 22:13:20:1320 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.2321ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:20:1320 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.2321ms, 状态码: 304[39m
+2024-12-29 22:13:20:1320 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.13ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:20:1320 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.13ms, 状态码: 304[39m
+2024-12-29 22:13:20:1320 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.5621999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:20:1320 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5621999999999999ms, 状态码: 304[39m
+2024-12-29 22:13:21:1321 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.22069999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:21:1321 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.22069999999999998ms, 状态码: 304[39m
+2024-12-29 22:13:21:1321 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.23879999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:21:1321 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.23879999999999998ms, 状态码: 304[39m
+2024-12-29 22:13:21:1321 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.2105ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:21:1321 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.2105ms, 状态码: 304[39m
+2024-12-29 22:13:22:1322 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.2216ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:22:1322 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.2216ms, 状态码: 304[39m
+2024-12-29 22:13:22:1322 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.15789999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:22:1322 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.15789999999999998ms, 状态码: 304[39m
+2024-12-29 22:13:22:1322 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.0882ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:22:1322 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.0882ms, 状态码: 304[39m
+2024-12-29 22:13:31:1331 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.159ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:31:1331 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.159ms, 状态码: 304[39m
+2024-12-29 22:13:34:1334 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:13:34:1334 [35mhttp[39m: [35mPOST /api/messages 200 0.642ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:34:1334 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.642ms, 状态码: 200[39m
+2024-12-29 22:13:34:1334 [31merror[39m: [31m[39m
+[31m    Error: Error[39m
+[31m    Message: Cannot set headers after they are sent to the client[39m
+[31m    Stack: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+[31m    at ServerResponse.setHeader (node:_http_outgoing:699:11)[39m
+[31m    at file:///I:/project/src/server/index.js:398:9[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: POST[39m
+[31m    URL: /api/messages[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:13:34:1334 [31merror[39m: [31m错误已记录 - Error: Cannot set headers after they are sent to the client[39m
+2024-12-29 22:13:34:1334 [35mhttp[39m: [35mPOST /api/chat 200 0.8003ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:34:1334 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.8003ms, 状态码: 200[39m
+2024-12-29 22:16:21:1621 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 0.2919ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:16:21:1621 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.2919ms, 状态码: 200[39m
+2024-12-29 22:16:21:1621 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.1855ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:16:21:1621 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1855ms, 状态码: 304[39m
+2024-12-29 22:16:21:1621 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.1352ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:16:21:1621 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1352ms, 状态码: 304[39m
+2024-12-29 22:18:54:1854 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 1[39m
+2024-12-29 22:18:54:1854 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.723ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:18:54:1854 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.723ms, 状态码: 304[39m
+2024-12-29 22:18:54:1854 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:18:54:1854 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.3099ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:18:54:1854 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3099ms, 状态码: 304[39m
+2024-12-29 22:18:54:1854 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:18:54:1854 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.4226ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:18:54:1854 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4226ms, 状态码: 304[39m
+2024-12-29 22:19:33:1933 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.1936ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:19:33:1933 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1936ms, 状态码: 304[39m
+2024-12-29 22:19:33:1933 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.1688ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:19:33:1933 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1688ms, 状态码: 304[39m
+2024-12-29 22:19:33:1933 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.0814ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:19:33:1933 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.0814ms, 状态码: 304[39m
+2024-12-29 22:19:44:1944 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:19:49:1949 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:20:07:207 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 0[39m
+2024-12-29 22:20:07:207 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 3.9273ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:20:07:207 [32minfo[39m: [32m性能指标已更新 - 响应时间: 3.9273ms, 状态码: 200[39m
+2024-12-29 22:20:07:207 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:20:07:207 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.7782ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:20:07:207 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7782ms, 状态码: 304[39m
+2024-12-29 22:20:07:207 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:20:07:207 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.6512ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:20:07:207 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6512ms, 状态码: 304[39m
+2024-12-29 22:20:13:2013 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.33749999999999997ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:20:13:2013 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.33749999999999997ms, 状态码: 304[39m
+2024-12-29 22:20:19:2019 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:20:19:2019 [35mhttp[39m: [35mPOST /api/messages 200 0.9678ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:20:19:2019 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.9678ms, 状态码: 200[39m
+2024-12-29 22:20:19:2019 [35mhttp[39m: [35mPOST /api/chat 200 1.0957999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:20:19:2019 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.0957999999999999ms, 状态码: 200[39m
+2024-12-29 22:22:10:2210 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 0.2767ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:22:10:2210 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.2767ms, 状态码: 200[39m
+2024-12-29 22:22:10:2210 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.1972ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:22:10:2210 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1972ms, 状态码: 304[39m
+2024-12-29 22:22:10:2210 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.2577ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:22:10:2210 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.2577ms, 状态码: 304[39m
+2024-12-29 22:23:31:2331 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.4191ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:23:31:2331 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4191ms, 状态码: 304[39m
+2024-12-29 22:23:31:2331 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.33949999999999997ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:23:31:2331 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.33949999999999997ms, 状态码: 304[39m
+2024-12-29 22:23:31:2331 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.1368ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:23:31:2331 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1368ms, 状态码: 304[39m
+2024-12-29 22:24:03:243 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.18259999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:24:03:243 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.18259999999999998ms, 状态码: 304[39m
+2024-12-29 22:24:03:243 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.13369999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:24:03:243 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.13369999999999999ms, 状态码: 304[39m
+2024-12-29 22:24:03:243 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.1704ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:24:03:243 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1704ms, 状态码: 304[39m
+2024-12-29 22:24:17:2417 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:24:21:2421 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:24:55:2455 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 0[39m
+2024-12-29 22:24:55:2455 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 3.3457999999999997ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:24:55:2455 [32minfo[39m: [32m性能指标已更新 - 响应时间: 3.3457999999999997ms, 状态码: 200[39m
+2024-12-29 22:24:55:2455 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:24:55:2455 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 1.0845ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:24:55:2455 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.0845ms, 状态码: 304[39m
+2024-12-29 22:24:55:2455 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:24:55:2455 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.6577999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:24:55:2455 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6577999999999999ms, 状态码: 304[39m
+2024-12-29 22:25:01:251 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.3838ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:01:251 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3838ms, 状态码: 304[39m
+2024-12-29 22:25:01:251 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.18919999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:01:251 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.18919999999999998ms, 状态码: 304[39m
+2024-12-29 22:25:01:251 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.1462ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:01:251 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1462ms, 状态码: 304[39m
+2024-12-29 22:25:06:256 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.3147ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:06:256 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3147ms, 状态码: 304[39m
+2024-12-29 22:25:06:256 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.1785ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:06:256 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1785ms, 状态码: 304[39m
+2024-12-29 22:25:06:256 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.33099999999999996ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:06:256 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.33099999999999996ms, 状态码: 304[39m
+2024-12-29 22:25:09:259 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.1833ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:09:259 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1833ms, 状态码: 304[39m
+2024-12-29 22:25:09:259 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.1202ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:09:259 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1202ms, 状态码: 304[39m
+2024-12-29 22:25:09:259 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.1171ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:09:259 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1171ms, 状态码: 304[39m
+2024-12-29 22:25:12:2512 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.1866ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:12:2512 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1866ms, 状态码: 304[39m
+2024-12-29 22:25:19:2519 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:25:19:2519 [35mhttp[39m: [35mPOST /api/messages 200 0.6708ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:25:19:2519 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6708ms, 状态码: 200[39m
+2024-12-29 22:27:13:2713 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 0.20559999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:27:13:2713 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.20559999999999998ms, 状态码: 200[39m
+2024-12-29 22:27:13:2713 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.12469999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:27:13:2713 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.12469999999999999ms, 状态码: 304[39m
+2024-12-29 22:27:13:2713 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.0885ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:27:13:2713 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.0885ms, 状态码: 304[39m
+2024-12-29 22:31:21:3121 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:31:21:3121 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 1.1826999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:21:3121 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.1826999999999999ms, 状态码: 304[39m
+2024-12-29 22:31:21:3121 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 1[39m
+2024-12-29 22:31:21:3121 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.4158ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:21:3121 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4158ms, 状态码: 304[39m
+2024-12-29 22:31:21:3121 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:31:21:3121 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.5293ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:21:3121 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5293ms, 状态码: 304[39m
+2024-12-29 22:31:26:3126 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:31:30:3130 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:31:42:3142 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 0[39m
+2024-12-29 22:31:42:3142 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 3.5871ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:42:3142 [32minfo[39m: [32m性能指标已更新 - 响应时间: 3.5871ms, 状态码: 200[39m
+2024-12-29 22:31:42:3142 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:31:42:3142 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.6196999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:42:3142 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6196999999999999ms, 状态码: 304[39m
+2024-12-29 22:31:42:3142 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:31:42:3142 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.49629999999999996ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:42:3142 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.49629999999999996ms, 状态码: 304[39m
+2024-12-29 22:31:43:3143 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.5411ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:43:3143 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5411ms, 状态码: 304[39m
+2024-12-29 22:31:47:3147 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:31:47:3147 [35mhttp[39m: [35mPOST /api/messages 200 0.6969ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:47:3147 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6969ms, 状态码: 200[39m
+2024-12-29 22:31:48:3148 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: assistant[39m
+2024-12-29 22:31:48:3148 [35mhttp[39m: [35mPOST /api/messages 200 0.5355ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:31:48:3148 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5355ms, 状态码: 200[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:36:19:3619 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:36:42:3642 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 0[39m
+2024-12-29 22:36:42:3642 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 4.938ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:42:3642 [32minfo[39m: [32m性能指标已更新 - 响应时间: 4.938ms, 状态码: 304[39m
+2024-12-29 22:36:42:3642 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:36:42:3642 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 1.035ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:42:3642 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.035ms, 状态码: 304[39m
+2024-12-29 22:36:42:3642 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:36:42:3642 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.4598ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:42:3642 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4598ms, 状态码: 304[39m
+2024-12-29 22:36:44:3644 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.4246ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:44:3644 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4246ms, 状态码: 304[39m
+2024-12-29 22:36:44:3644 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.289ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:44:3644 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.289ms, 状态码: 304[39m
+2024-12-29 22:36:44:3644 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.3076ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:44:3644 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3076ms, 状态码: 304[39m
+2024-12-29 22:36:52:3652 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.20429999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:52:3652 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.20429999999999998ms, 状态码: 304[39m
+2024-12-29 22:36:57:3657 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:36:57:3657 [35mhttp[39m: [35mPOST /api/messages 200 0.7532ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:57:3657 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7532ms, 状态码: 200[39m
+2024-12-29 22:36:58:3658 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: assistant[39m
+2024-12-29 22:36:58:3658 [35mhttp[39m: [35mPOST /api/messages 200 0.5891ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:36:58:3658 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5891ms, 状态码: 200[39m
+2024-12-29 22:37:31:3731 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:37:31:3731 [35mhttp[39m: [35mPOST /api/messages 200 0.6054999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:37:31:3731 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6054999999999999ms, 状态码: 200[39m
+2024-12-29 22:37:32:3732 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: assistant[39m
+2024-12-29 22:37:32:3732 [35mhttp[39m: [35mPOST /api/messages 200 0.6743ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:37:32:3732 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6743ms, 状态码: 200[39m
+2024-12-29 22:40:40:4040 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 0.3281ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:40:40:4040 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3281ms, 状态码: 200[39m
+2024-12-29 22:40:40:4040 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.1667ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:40:40:4040 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1667ms, 状态码: 304[39m
+2024-12-29 22:40:40:4040 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.1299ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:40:40:4040 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.1299ms, 状态码: 304[39m
+2024-12-29 22:42:10:4210 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:42:13:4213 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:42:16:4216 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 0[39m
+2024-12-29 22:42:16:4216 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 3.9086999999999996ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:16:4216 [32minfo[39m: [32m性能指标已更新 - 响应时间: 3.9086999999999996ms, 状态码: 200[39m
+2024-12-29 22:42:16:4216 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:42:16:4216 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.6878ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:16:4216 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6878ms, 状态码: 304[39m
+2024-12-29 22:42:16:4216 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:42:16:4216 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.4382ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:16:4216 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4382ms, 状态码: 304[39m
+2024-12-29 22:42:17:4217 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.3424ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:17:4217 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3424ms, 状态码: 304[39m
+2024-12-29 22:42:22:4222 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:42:22:4222 [35mhttp[39m: [35mPOST /api/messages 200 0.8828999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:22:4222 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.8828999999999999ms, 状态码: 200[39m
+2024-12-29 22:42:23:4223 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: assistant[39m
+2024-12-29 22:42:23:4223 [35mhttp[39m: [35mPOST /api/messages 200 0.6678999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:23:4223 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6678999999999999ms, 状态码: 200[39m
+2024-12-29 22:42:42:4242 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:42:42:4242 [35mhttp[39m: [35mPOST /api/messages 200 0.6446999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:42:4242 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6446999999999999ms, 状态码: 200[39m
+2024-12-29 22:42:44:4244 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: assistant[39m
+2024-12-29 22:42:44:4244 [35mhttp[39m: [35mPOST /api/messages 200 0.7567999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:42:44:4244 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.7567999999999999ms, 状态码: 200[39m
+2024-12-29 22:43:02:432 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:43:02:432 [35mhttp[39m: [35mPOST /api/messages 200 0.6537ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:43:02:432 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6537ms, 状态码: 200[39m
+2024-12-29 22:43:33:4333 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: assistant[39m
+2024-12-29 22:43:33:4333 [35mhttp[39m: [35mPOST /api/messages 200 0.5908ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:43:33:4333 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5908ms, 状态码: 200[39m
+2024-12-29 22:49:04:494 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 6[39m
+2024-12-29 22:49:04:494 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 1.1586999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:49:04:494 [32minfo[39m: [32m性能指标已更新 - 响应时间: 1.1586999999999998ms, 状态码: 200[39m
+2024-12-29 22:49:04:494 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:49:04:494 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.4174ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:49:04:494 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.4174ms, 状态码: 304[39m
+2024-12-29 22:49:04:494 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:49:04:494 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.45239999999999997ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:49:04:494 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.45239999999999997ms, 状态码: 304[39m
+2024-12-29 22:51:23:5123 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:51:27:5127 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 22:51:29:5129 [32minfo[39m: [32m获取消息 - 模型: qwen-long, 数量: 0[39m
+2024-12-29 22:51:29:5129 [35mhttp[39m: [35mGET /api/messages/qwen-long 200 3.5000999999999998ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:51:29:5129 [32minfo[39m: [32m性能指标已更新 - 响应时间: 3.5000999999999998ms, 状态码: 200[39m
+2024-12-29 22:51:29:5129 [32minfo[39m: [32m获取消息 - 模型: qwen-plus, 数量: 0[39m
+2024-12-29 22:51:29:5129 [35mhttp[39m: [35mGET /api/messages/qwen-plus 304 0.8844ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:51:29:5129 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.8844ms, 状态码: 304[39m
+2024-12-29 22:51:29:5129 [32minfo[39m: [32m获取消息 - 模型: qwen-72b, 数量: 0[39m
+2024-12-29 22:51:29:5129 [35mhttp[39m: [35mGET /api/messages/qwen-72b 304 0.5547ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:51:29:5129 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5547ms, 状态码: 304[39m
+2024-12-29 22:51:34:5134 [35mhttp[39m: [35mGET /api/messages/qwen-long 304 0.3442ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:51:34:5134 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.3442ms, 状态码: 304[39m
+2024-12-29 22:51:39:5139 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:51:39:5139 [35mhttp[39m: [35mPOST /api/messages 200 0.9250999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:51:39:5139 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.9250999999999999ms, 状态码: 200[39m
+2024-12-29 22:52:26:5226 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:52:26:5226 [35mhttp[39m: [35mPOST /api/messages 200 0.6013ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:52:26:5226 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.6013ms, 状态码: 200[39m
+2024-12-29 22:52:38:5238 [32minfo[39m: [32m消息已保存 - 模型: qwen-long, 角色: user[39m
+2024-12-29 22:52:38:5238 [35mhttp[39m: [35mPOST /api/messages 200 0.5968ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:52:38:5238 [32minfo[39m: [32m性能指标已更新 - 响应时间: 0.5968ms, 状态码: 200[39m
+2024-12-29 22:55:42:5542 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 22:55:45:5545 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 23:01:55:155 [32minfo[39m: [32m收到 SIGINT 信号，准备关闭服务器...[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 23:01:59:159 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32mWebSocket服务器正在监听连接[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32m服务器启动成功:[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32m- 本地访问: http://localhost:3000[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32m- 本地IPv4: http://127.0.0.1:3000[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32m- 健康检查: http://localhost:3000/health[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32m- 测试接口: http://localhost:3000/api/test[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32m- 性能指标: http://localhost:3000/api/metrics[39m
+2024-12-29 23:49:46:4946 [32minfo[39m: [32m- WebSocket: ws://localhost:3000[39m
+[32m[39m

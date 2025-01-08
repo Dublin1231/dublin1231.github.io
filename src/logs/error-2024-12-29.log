@@ -1,0 +1,90 @@
+2024-12-29 22:10:54:1054 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-long[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31mGET /api/messages/qwen-long 500 4.8979ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-plus[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31mGET /api/messages/qwen-plus 500 1.8679ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-72b[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:10:54:1054 [31merror[39m: [31mGET /api/messages/qwen-72b 500 0.9914999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-long[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31mGET /api/messages/qwen-long 500 4.8294999999999995ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-plus[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31mGET /api/messages/qwen-plus 500 1.3155ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m[39m
+[31m    Error: TypeError[39m
+[31m    Message: next is not a function[39m
+[31m    Stack: TypeError: next is not a function[39m
+[31m    at getMessages (file:///I:/project/src/server/controllers/messageController.js:41:5)[39m
+[31m    at file:///I:/project/src/server/index.js:416:28[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-72b[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31m错误已记录 - TypeError: next is not a function[39m
+2024-12-29 22:11:14:1114 [31merror[39m: [31mGET /api/messages/qwen-72b 500 1.0052999999999999ms - 127.0.0.1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0[39m
+2024-12-29 22:13:34:1334 [31merror[39m: [31m[39m
+[31m    Error: Error[39m
+[31m    Message: Cannot set headers after they are sent to the client[39m
+[31m    Stack: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client[39m
+[31m    at ServerResponse.setHeader (node:_http_outgoing:699:11)[39m
+[31m    at file:///I:/project/src/server/index.js:398:9[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+[31m    Method: POST[39m
+[31m    URL: /api/messages[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-29 22:13:34:1334 [31merror[39m: [31m错误已记录 - Error: Cannot set headers after they are sent to the client[39m

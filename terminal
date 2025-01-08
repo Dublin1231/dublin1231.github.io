@@ -1,0 +1,62 @@
+# 删除 .git 文件夹（删除所有 Git 配置）
+rm -rf .git
+
+# 重新初始化 Git 仓库
+git init
+
+# 添加所有文件
+git add .
+
+# 创建第一个提交
+git commit -m "初始提交"
+
+# 重命名分支为 main
+git branch -M main
+
+# 首先删除现有的 origin（如果存在）
+git remote remove origin
+
+# 添加第一个远程仓库，命名为 origin1
+git remote add origin1 https://github.com/Dublin1231/zhaixx.github.io.git
+
+# 添加第二个远程仓库，命名为 origin2
+git remote add origin2 https://github.com/Dublin1231/Project_Prompt-Engineering.git
+
+# 设置一个主要的远程仓库
+git remote add origin https://github.com/Dublin1231/zhaixx.github.io.git
+
+# 添加第二个推送地址
+git remote set-url --add --push origin https://github.com/Dublin1231/Project_Prompt-Engineering.git
+
+# 这样使用一次推送就能同时推送到两个仓库
+git push -f origin main
+
+# 验证远程仓库配置
+git remote -v
+
+# 检查当前状态
+git status
+
+# 检查是否有远程仓库配置
+git remote -v
+
+# 检查当前分支
+git branch 
+
+# 先获取远程仓库的所有内容
+git fetch origin
+
+# 将本地 main 分支与远程的 main 分支合并
+git pull origin main --allow-unrelated-histories 
+
+# 强制推送
+git push -f origin main 
+
+# 先拉取远程的更改
+git pull origin main
+
+# 解决可能的冲突后，再推送
+git push origin main 
+
+# 查看远程仓库配置
+git remote -v 

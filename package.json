@@ -1,0 +1,50 @@
+{
+  "name": "project-prompt",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "server": "node --experimental-modules src/server/index.js",
+    "start": "npm run build && node start.js",
+    "start:all": "node ./node_modules/concurrently/dist/bin/concurrently.js \"npm run dev\" \"npm run server\"",
+    "test": "echo \"No test specified\"",
+    "start:debug": "node --inspect start.js",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "axios": "^1.7.9",
+    "better-queue": "^3.8.12",
+    "chart.js": "^4.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "element-plus": "^2.9.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0",
+    "ioredis": "^5.3.2",
+    "lru-cache": "^10.0.0",
+    "node-cache": "^5.1.2",
+    "openai": "^4.77.0",
+    "pinia": "^2.3.0",
+    "response-time": "^2.3.3",
+    "uuid": "^11.0.3",
+    "vue": "^3.5.13",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "concurrently": "^8.2.2",
+    "vite": "^4.5.1"
+  },
+  "engines": {
+    "node": ">=14.0.0 <19.0.0",
+    "npm": ">=6.0.0"
+  }
+}

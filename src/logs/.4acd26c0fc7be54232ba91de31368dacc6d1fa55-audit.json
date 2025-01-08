@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "I:\\项目提示词\\src\\logs\\.4acd26c0fc7be54232ba91de31368dacc6d1fa55-audit.json",
+    "files": [
+        {
+            "date": 1735210575014,
+            "name": "I:\\项目提示词\\src\\logs\\combined-2024-12-26.log",
+            "hash": "d41e6fc13e38dc8756806ae4b50e2478a75bc2291b510cca5c3483f0934dd115"
+        },
+        {
+            "date": 1735288109734,
+            "name": "I:\\项目提示词\\src\\logs\\combined-2024-12-27.log",
+            "hash": "2e51a938635668fabb3b58ff538d457e087c10108205aa3e4e46dbbc20529082"
+        },
+        {
+            "date": 1735388467211,
+            "name": "I:\\项目提示词\\src\\logs\\combined-2024-12-28.log",
+            "hash": "142635b73d78efa7a89a27e3d8bf8c4920a94c5b4e3225c283bf9ad01694b553"
+        }
+    ],
+    "hashType": "sha256"
+}

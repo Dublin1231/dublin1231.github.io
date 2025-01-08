@@ -1,0 +1,181 @@
+2024-12-26 18:56:15:5615 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 18:56:20:5620 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 18:56:25:5625 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 18:56:30:5630 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 18:57:03:573 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 18:57:08:578 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 18:57:13:5713 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 18:57:18:5718 [31merror[39m: [31m错误: 端口 3000 已被占用[39m
+2024-12-26 19:07:55:755 [31merror[39m: [31mWebSocket错误: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:09:41:941 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:10:11)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/index.js:116:3[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/metrics[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:09:41:941 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 19:11:47:1147 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/index.js:116:3[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/metrics[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:11:47:1147 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 19:13:05:135 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/index.js:116:3[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/metrics[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:13:05:135 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 19:13:47:1347 [31merror[39m: [31mWebSocket错误: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:14:27:1427 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/index.js:116:3[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/metrics[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:14:27:1427 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 19:17:09:179 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/index.js:116:3[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/metrics[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:17:09:179 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 19:18:05:185 [31merror[39m: [31mWebSocket错误: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:18:19:1819 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/index.js:116:3[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/metrics[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:18:19:1819 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 19:20:45:2045 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/index.js:116:3[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/metrics[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:20:45:2045 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 19:21:35:2135 [31merror[39m: [31mWebSocket连接错误: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:34:17:3417 [31merror[39m: [31mWebSocket错误: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:35:20:3520 [31merror[39m: [31m处理WebSocket连接失败: Cannot read properties of undefined (reading 'host')[39m
+2024-12-26 19:35:20:3520 [31merror[39m: [31m测试执行失败:[39m
+2024-12-26 19:38:13:3813 [31merror[39m: [31m测试执行失败:[39m
+2024-12-26 19:40:48:4048 [31merror[39m: [31m测试执行失败:[39m
+2024-12-26 19:42:28:4228 [31merror[39m: [31m测试执行失败:[39m
+2024-12-26 19:43:47:4347 [31merror[39m: [31m获取队列统计失败: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:43:47:4347 [31merror[39m: [31m添加任务失败 - 快速任务: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:43:48:4348 [31merror[39m: [31m添加任务失败 - 中等任务: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:43:50:4350 [31merror[39m: [31m添加任务失败 - 慢速任务: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:43:51:4351 [31merror[39m: [31m添加任务失败 - 失败任务: connect ECONNREFUSED ::1:3001[39m
+2024-12-26 19:56:02:562 [31merror[39m: [31m[39m
+[31m    Error: UnauthorizedError[39m
+[31m    Message: 缺少API密钥[39m
+[31m    Stack: UnauthorizedError: 缺少API密钥[39m
+[31m    at validateApiKey (file:///I:/%E9%A1%B9%E7%9B%AE%E6%8F%90%E7%A4%BA%E8%AF%8D/src/server/middleware/security.js:14:9)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\route.js:149:13)[39m
+[31m    at Route.dispatch (I:\项目提示词\node_modules\express\lib\router\route.js:119:3)[39m
+[31m    at Layer.handle [as handle_request] (I:\项目提示词\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at I:\项目提示词\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at param (I:\项目提示词\node_modules\express\lib\router\index.js:365:14)[39m
+[31m    at param (I:\项目提示词\node_modules\express\lib\router\index.js:376:14)[39m
+[31m    at Function.process_params (I:\项目提示词\node_modules\express\lib\router\index.js:421:3)[39m
+[31m    at next (I:\项目提示词\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    Method: GET[39m
+[31m    URL: /api/messages/qwen-max[39m
+[31m    IP: 127.0.0.1[39m
+[31m  [39m
+2024-12-26 19:56:02:562 [31merror[39m: [31m错误已记录 - UnauthorizedError: 缺少API密钥[39m
+2024-12-26 20:02:59:259 [31merror[39m: [31mWebSocket错��: connect ECONNREFUSED 127.0.0.1:3001[39m
+2024-12-26 20:03:12:312 [31merror[39m: [31mWebSocket错��: connect ECONNREFUSED 127.0.0.1:3001[39m
+2024-12-26 20:04:21:421 [31merror[39m: [31mWebSocket错��: connect ECONNREFUSED 127.0.0.1:3001[39m
+2024-12-26 20:05:44:544 [31merror[39m: [31mWebSocket错��: connect ECONNREFUSED 127.0.0.1:3001[39m
+2024-12-26 20:06:23:623 [31merror[39m: [31mWebSocket错误: connect ECONNREFUSED 127.0.0.1:3001[39m
+2024-12-26 20:06:34:634 [31merror[39m: [31mWebSocket错误: connect ECONNREFUSED 127.0.0.1:3001[39m
